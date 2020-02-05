@@ -1455,3 +1455,6 @@ select {
     width: 560px;
   }
 }
+.custom_icon{
+	height: 40px;
+}
